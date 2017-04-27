@@ -8,7 +8,7 @@ Visit the [website](https://ccmc.gsfc.nasa.gov/) [https://ccmc.gsfc.nasa.gov/]
 If you are a consumer of the metadata simple clone the repostory
 
 ````
-git clone -b master --single-branch https://github.com/hpde/spase-SMWG
+git clone -b master --single-branch https://github.com/hpde/CCMC
 ````
 
 If you are a contributor, clone the repository and use the "draft" branch.
