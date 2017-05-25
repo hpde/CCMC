@@ -5,7 +5,7 @@ Visit the [website](https://ccmc.gsfc.nasa.gov/) [https://ccmc.gsfc.nasa.gov/]
 
 # How to Use This Repository
 
-If you are a consumer of the metadata simple clone the repostory
+If you are a consumer of the metadata simply clone the repostory with:
 
 ````
 git clone -b master --single-branch --depth=1 https://github.com/hpde/CCMC
