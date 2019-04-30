@@ -5,7 +5,7 @@
     <ResourceID>spase://CCMC/NumericalData/Magnetospheric-Model/QinDenton/PT5M</ResourceID>
     <ResourceHeader>
       <ResourceName>Qin-Denton Data Set 5-minute cadence</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2019-04-30T19:04:11Z</ReleaseDate>
       <Description>Data-derived magnetic field models of Earth's magnetosphere are generally developed using in-situ magnetic field measurements along with auxiliary parameters. These models predict the magnetic field at a position in the magnetosphere given values of auxiliary parameters that represent the state of the magnetosphere (i.e., disturbed or quiet). Early models required only a few parameters. For example, the Tsyganenko 1989 model required knowledge of Earth's dipole tilt and the level of geomagnetic disturbance (characterized by the Kp index). Modern magnetic field models are much more accurate but require many more auxiliary inputs. Qin et al. have developed a data set of input parameters for the Tsyganenko 2001, 2004, and 2005 magnetic field models. More information about this data set is available at Richard Denton's web page</Description>
       <Acknowledgement>This file may be freely distributed as long as the header is retained.  Please note that this database is not intended to replace the OMNIWeb database and recent changes to the OMNIWeb database may or may not be encorporated into this file.</Acknowledgement>
       <Contact>
@@ -55,7 +55,6 @@
       <Format>Text</Format>
       <Encoding>ASCII</Encoding>
     </AccessInformation>
-    <ProviderResourceName/>
     <ProviderVersion>2</ProviderVersion>
     <MeasurementType>ActivityIndex</MeasurementType>
     <TemporalDescription>
@@ -67,8 +66,6 @@
       <Cadence>PT5M</Cadence>
     </TemporalDescription>
     <ObservedRegion>Earth.NearSurface</ObservedRegion>
-    <Keyword/>
-    <InputResourceID/>
     <Parameter>
       <Name/>
       <ParameterKey/>
