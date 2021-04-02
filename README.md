@@ -1,5 +1,5 @@
 # CCMC
-Community Coordinated Modeling Center - NASA
+Community Coordinated Modeling Center (CCMC) - NASA
 
 Visit the [website](https://ccmc.gsfc.nasa.gov/) [https://ccmc.gsfc.nasa.gov/]
 
