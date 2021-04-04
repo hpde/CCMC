@@ -39,6 +39,10 @@ select the "SPASE Manual Validation" action, then click on "Run Workflow". For l
 can take many minutes for the workflow to complete - be patient. Once it is complete the "SPASE Manual Validation"
 badge will update.
 
-Notes for repository administrator: There is no garbage collection for workflows. So, its a good practice to
+**Note on badge refresh**: The status portion of a badge is an image. Typically browsers cache images so an 
+updated status may not appear immediately. One way to view the current badge is to clear cached images back to when you
+last loaded the page.
+
+**Notes for repository administrator**: There is no garbage collection for workflows. So, its a good practice to
 occassionally visit the [action workflows](../../actions) and remove old workflow runs. To remove a run click
 the elipses (...) for a work flow and select "Delete workflow run". Typically you would only need the most recent run.
