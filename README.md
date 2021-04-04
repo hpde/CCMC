@@ -41,7 +41,7 @@ badge will update.
 
 **Note on badge refresh**: The status portion of a badge is an image. Typically browsers cache images so an 
 updated status may not appear immediately. One way to view the current badge is to clear cached images back to when you
-last loaded the page.
+last loaded the page, then refresh the page.
 
 **Notes for repository administrator**: There is no garbage collection for workflows. So, its a good practice to
 occassionally visit the [action workflows](../../actions) and remove old workflow runs. To remove a run click
