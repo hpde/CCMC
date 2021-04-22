@@ -1,4 +1,4 @@
- # This is a basic workflow to help you get started with Actions
+# This is a basic workflow to help you get started with Actions
 
 name: SPASE Push Validation
 
@@ -49,7 +49,7 @@ jobs:
       # Perform referential checks
       #  if: env.GIT_DIFF
       - name: Referential checks ...
-        run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-refcheck $f; done >> logs/validate.log
+        run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-refcheck -u -i $f; done >> logs/validate.log
 
       # Upload logs
       #  if: env.GIT_DIFF
