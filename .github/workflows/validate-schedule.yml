@@ -90,7 +90,7 @@ jobs:
             ""
             For details see attachment.
           # comma-separated string, send email to
-          to: ${{ secrets.EMAIL_TO }},${{ secrets.EMAIL_LIST }}
+          to: ${{ secrets.EMAIL_LIST }},${{ secrets.EMAIL_TO }}
           # from email name
           from: HPDE Mailer
           # Attachements:
