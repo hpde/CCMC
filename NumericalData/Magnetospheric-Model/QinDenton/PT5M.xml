@@ -61,19 +61,15 @@
       <TimeSpan>
         <StartDate>1963-01-01T00:00:00.000Z</StartDate>
         <StopDate>2012-02-06T23:59:59.999Z</StopDate>
-        <Note/>
 </TimeSpan>
       <Cadence>PT5M</Cadence>
 </TemporalDescription>
     <ObservedRegion>Earth.NearSurface</ObservedRegion>
     <Parameter>
-      <Name/>
-      <ParameterKey/>
-      <Description/>
-      <Units/>
+      <Name>Unknown</Name>
       <Mixed>
         <MixedQuantity>Other</MixedQuantity>
-</Mixed>
-</Parameter>
+      </Mixed>
+    </Parameter>
 </NumericalData>
 </Spase>

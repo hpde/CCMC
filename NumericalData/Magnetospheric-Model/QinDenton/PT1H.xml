@@ -65,13 +65,10 @@
 </TemporalDescription>
     <ObservedRegion>Earth.NearSurface</ObservedRegion>
     <Parameter>
-      <Name/>
-      <ParameterKey/>
-      <Description/>
-      <Units/>
+      <Name>Unknown</Name>
       <Mixed>
         <MixedQuantity>Other</MixedQuantity>
-</Mixed>
-</Parameter>
+      </Mixed>
+    </Parameter>
 </NumericalData>
 </Spase>
