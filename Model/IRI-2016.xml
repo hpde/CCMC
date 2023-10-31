@@ -2,9 +2,9 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2.6.0.xsd">
    <Version>2.6.0</Version>
    <Model>
-      <ResourceID>spase://CCMC/Model/InternationalReferenceIonosphere/2016</ResourceID>
+      <ResourceID>spase://CCMC/Model/IRI/2016</ResourceID>
       <ResourceHeader>
-         <ResourceName>International Reference Ionosphere 2016 Model</ResourceName>
+         <ResourceName>International Reference Ionosphere Model 2016</ResourceName>
          <AlternateName>IRI2016</AlternateName>
          <ReleaseDate>2023-09-28T00:00:00Z</ReleaseDate>
          <RevisionHistory>
